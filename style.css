@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    font-family: 'Bebas Neue';
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,blue, #3D4FF3);
+    border-radius: 9px;
+    padding: 10px 25px;
+    color: #FFF9F4;
+    font-size: 15px;
+}
+nav{
+    font-size: 18px;
+    padding-top: 3%;
+    margin-right: 5%;
+    text-align: right;
+}
+.font{
+    font-size: 80px;
+    color:#FA804C;
+}
+.name{
+   
+    color:#363958;
+}
+.Shoe{
+    height: 350px;
+    width: 100%;
+    background-color: rgb(231, 228, 228);
+    border-radius: 5%;
+    padding: 5px;
+}
+.Shoe2{
+    height: 350px;
+    width: 100%;
+    background-color: rgb(231, 228, 228);
+    border-radius: 5%;
+    padding: 10px 30px;
+}
+.Shoe3{
+    height: 350px;
+    width: 100%;
+    background-color: rgb(231, 228, 228);
+    border-radius: 5%;
+    padding: 10%;
+}
+.colors{
+color: #FA804C;
+}
+.icon-picture{
+    width: 40%;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+     border-radius: 20px;
+}
